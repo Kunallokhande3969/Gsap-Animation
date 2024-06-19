@@ -1,0 +1,27 @@
+*{
+  padding : 0; 
+  margin : 0;
+  box-sizing: border-box;
+}
+html,body{
+  height : 100%;
+  width : 100%;
+  background-color: black;
+}
+#main{
+  height : 100%;
+  width : 100%;
+}
+#kunal h1{
+font-size: 30px;
+color: white;
+}
+#kunal h2{
+font-size: 25px;
+color: white;
+}
+#kunal h3{
+font-size: 20px;
+color: white;
+}
+
